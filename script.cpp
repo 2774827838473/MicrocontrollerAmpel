@@ -1,5 +1,3 @@
-#include "Keyboard.h"
-
 const int ampelGruenPin = 2;
 const int ampelGelbPin = 3;
 const int ampelRotPin = 4;
